@@ -16,9 +16,6 @@
 - 💻 Apasionado por el desarrollo de software, la lógica y los buenos retos.
 - 🚀 Actualmente enfocado en aprender y crear soluciones reales.
 - ☕ Impulsado por el café y los commits.
-
----
-
 ###  Carrera
 <div align="left">
   <table style="border: 2px solid #5C23F0; border-radius: 15px; padding: 5px; background-color: #0d1117;">
@@ -43,8 +40,6 @@
     <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github&theme=dark" />
   </a>
 </p>
-
----
 
 <!-- BANNER INFERIOR -->
 <div align="center">
