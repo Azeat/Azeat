@@ -53,10 +53,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A21EFE,100:0E95FC&height=100&section=footer" width="100%" />
 </div>
-
----
-
-<!-- BANNER INFERIOR -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07183A,100:1264CB&height=100&section=footer" width="100%" />
-</div>
