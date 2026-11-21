@@ -4,7 +4,7 @@
 </div>
 
 <!-- TEXTO SUBIDO (margin-top negativo) -->
-<div align="center" style="margin-top: -50px;">
+<div align="center" style="margin-top: -80px;">
   <h1 style="font-size: 2.5em; margin-bottom: 5px;">Hola, soy Andres zea</h1>
   <p><i>"Convirtiendo el café en código y los problemas en soluciones."</i></p>
 </div>
