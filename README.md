@@ -33,7 +33,7 @@
 
 ### 🏫 Mi Universidad
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Escudo_Universidad_de_la_Costa_CUC.png/200px-Escudo_Universidad_de_la_Costa_CUC.png" alt="Logo CUC" height="80" />
+  <img src="https://github.com/Azeat/Azeat/blob/main/Cuc.png" alt="Logo CUC" height="80" />
   <br>
   <b>Universidad de la Costa (CUC)</b>
   <br>
