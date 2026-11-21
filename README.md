@@ -1,75 +1,58 @@
-<!-- BANNER SUPERIOR -->
+<!-- BANNER SUPERIOR ESTILO FOTO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E95FC,100:A21EFE&height=200&section=header&text=INGENIERO%20DE%20SISTEMAS&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
-  
-  <br>
-
-  <!-- MÁQUINA DE ESCRIBIR -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E95FC&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Andres+Zea+👋;Estudiante+de+Ing.+de+Sistemas+💻;Construyendo+el+futuro+🚀" alt="Typing SVG" />
-  </a>
-
-  <p><i>"Convirtiendo el café en código y los problemas en soluciones."</i></p>
-
-  <!-- INFO DE CONTACTO -->
-  <p>
-    📍 <b>Barranquilla, Colombia</b> &nbsp;|&nbsp; 
-    ✉️ <b>azeat@cuc.edu.co</b>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1264CB,100:07183A&height=200&section=header&text=SOFTWARE%20DEVELOPER&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=D4AF37" width="100%" />
 </div>
 
 <br>
 
-<!-- TARJETA CON BORDES SUAVES PARA SOBRE MÍ Y UNIVERSIDAD -->
-<div align="center">
-  <table style="border: 2px solid #5C23F0; border-radius: 20px; padding: 20px; background-color: #0d1117; width: 85%;">
+<h1 align="center">Hola, soy Andrés Camilo</h1>
+
+<p align="center">
+  <i>"Convirtiendo el café en código y los problemas en soluciones."</i>
+</p>
+
+---
+
+### 📍 Sobre mí
+- 🎓 Estudiante de **4to Semestre de Ingeniería de Sistemas**.
+- 💻 Apasionado por el desarrollo de software, la lógica y los buenos retos.
+- 🚀 Actualmente enfocado en aprender y crear soluciones reales.
+- ☕ Impulsado por el café y los commits.
+
+---
+
+### 🏫 Carrera
+<div align="left">
+  <table style="border: none;">
     <tr>
-      <td width="50%" align="center">
-        <h3 style="color: #ffffff;">📌 Sobre mí</h3>
-        <p align="left">🎓 Cursando <b>4to Semestre</b>.</p>
-        <p align="left">💻 Apasionado por la lógica y el código.</p>
-        <p align="left">🚀 Aprendiendo nuevas herramientas cada día.</p>
-        <p align="left">☕ Impulsado por el café y los retos.</p>
+      <td align="center" style="padding-right: 20px;">
+        <!-- Logo de la CUC -->
+        <img src="https://github.com/Azeat/Azeat/blob/main/Cuc.png?raw=true" alt="Logo CUC" height="60" style="background-color: white; padding: 5px; border-radius: 10px;" />
       </td>
-      <td width="50%" align="center">
-        <h3 style="color: #ffffff;">🏫 Mi Universidad</h3>
-        <img src="https://github.com/Azeat/Azeat/blob/main/Cuc.png?raw=true" alt="Logo CUC" height="70" style="border-radius: 15px;" />
-        <br><br>
-        <b>Universidad de la Costa (CUC)</b>
-        <br>
-        <i>Ingeniería de Sistemas</i>
+      <td align="left">
+        <b>Universidad de la Costa (CUC)</b><br>
+        Ingeniería de Sistemas <br>
+        <i>4to Semestre</i>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+---
 
-<!-- TARJETA CON BORDES SUAVES PARA ESTADÍSTICAS -->
-<div align="center">
-  <div style="border: 2px solid #0E95FC; border-radius: 25px; padding: 15px; display: inline-block; background-color: #0d1117;">
-    <h3 style="color: #ffffff; margin-top: 0;">📊 Mis Estadísticas</h3>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Azeat&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Andrés" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azeat&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" height="150" />
-  </div>
-</div>
+### 🛠️ Mi Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1264CB?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-07183A?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-<br>
-
-<!-- TARJETA CON BORDES SUAVES PARA TECH STACK -->
-<div align="center">
-  <div style="border: 2px solid #A21EFE; border-radius: 20px; padding: 15px; display: inline-block; background-color: #0d1117;">
-    <h3 style="color: #ffffff; margin-top: 0;">🛠️ Mi Tech Stack</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github&theme=dark" style="border-radius: 10px;" />
-    </a>
-  </div>
-</div>
-
-<br>
+---
 
 <!-- BANNER INFERIOR -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E95FC,100:A21EFE&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07183A,100:1264CB&height=100&section=footer" width="100%" />
 </div>
