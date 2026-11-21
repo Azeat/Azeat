@@ -12,10 +12,10 @@
 ---
 
 ###  Sobre mí
-- 🎓 Estudiante de **4to Semestre de Ingeniería de Sistemas**.
-- 💻 Apasionado por el desarrollo de software, la lógica y los buenos retos.
-- 🚀 Actualmente enfocado en aprender y crear soluciones reales.
-- ☕ Impulsado por el café y los commits.
+- 🥇 Apasioando por los deportes.
+- 💻 Me fascina el hardware.
+- 🚀 Actualmente enfocado en aprender y mejorar.
+- ☕ Me gusta el café.
 ###  Carrera
 <div align="left">
   <table style="border: 2px solid #5C23F0; border-radius: 15px; padding: 5px; background-color: #0d1117;">
@@ -25,7 +25,7 @@
       </td>
       <td align="left" style="padding-right: 20px;">
         <b>Universidad de la Costa (CUC)</b><br>
-        Ingeniería de Sistemas <br>
+        Azeat@cuc.edu.co <br>
         <i>4to Semestre</i>
       </td>
     </tr>
