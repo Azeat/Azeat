@@ -6,7 +6,7 @@
 
   <!-- MÁQUINA DE ESCRIBIR -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E95FC&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Andrés+Camilo+👋;Estudiante+de+Ing.+de+Sistemas+💻;Construyendo+el+futuro+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E95FC&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Andres+Zea+👋;Estudiante+de+Ing.+de+Sistemas+💻;Construyendo+el+futuro+🚀" alt="Typing SVG" />
   </a>
 
   <p><i>"Convirtiendo el café en código y los problemas en soluciones."</i></p>
